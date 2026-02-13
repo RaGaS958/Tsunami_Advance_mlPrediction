@@ -14,7 +14,7 @@
 
 *Leveraging decades of seismic data to save lives through early detection and rapid risk assessment*
 
-[🚀 Quick Start](#-quick-start) • [📊 Features](#-features) • [🔬 Technology](#-technology-stack) • [📖 Documentation](#-documentation) • [🤝 Contributing](#-contributing)
+[🚀 Quick Start](https://tsunamiadvancemlprediction-bznupjr7rautss2px38pmx.streamlit.app/) • [📊 Features](#-features) • [🔬 Technology](#-technology-stack) • [📖 Documentation](#-documentation) • [🤝 Contributing](#-contributing)
 
 ---
 
@@ -1158,127 +1158,8 @@ gantt
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions from the community! Here's how you can help:
 
-### 🌟 Ways to Contribute
-
-<div align="center">
-
-| Type | Description | Difficulty |
-|------|-------------|------------|
-| 🐛 **Bug Reports** | Report issues and bugs | Easy |
-| 💡 **Feature Requests** | Suggest new features | Easy |
-| 📝 **Documentation** | Improve docs and guides | Medium |
-| 🔧 **Code Contributions** | Submit pull requests | Medium-Hard |
-| 🧪 **Testing** | Test new features | Medium |
-| 🎨 **UI/UX Design** | Improve interface | Medium |
-
-</div>
-
-### 📋 Contribution Process
-
-```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#667eea','primaryTextColor':'#fff','primaryBorderColor':'#764ba2','lineColor':'#f093fb','secondaryColor':'#38ef7d','tertiaryColor':'#4facfe'}}}%%
-graph LR
-    A[🍴 Fork<br/>Repository] --> B[🌿 Create<br/>Branch<br/>feature/xyz]
-    B --> C[✍️ Make<br/>Changes<br/>Code/Docs]
-    C --> D[🧪 Write<br/>Tests<br/>Unit Tests]
-    D --> E[💾 Commit<br/>Changes<br/>Git Commit]
-    E --> F[⬆️ Push to<br/>Fork<br/>Git Push]
-    F --> G[🔀 Create<br/>Pull Request<br/>PR]
-    G --> H{👀 Code<br/>Review<br/>Approval?}
-    H -->|✅ Approved| I[🎉 Merge<br/>Success!]
-    H -->|⚠️ Changes<br/>Needed| C
-    
-    style A fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
-    style B fill:#f093fb,stroke:#f5576c,stroke-width:3px,color:#fff
-    style C fill:#4facfe,stroke:#00f2fe,stroke-width:3px,color:#fff
-    style D fill:#38ef7d,stroke:#11998e,stroke-width:3px,color:#fff
-    style E fill:#fa709a,stroke:#fee140,stroke-width:3px,color:#fff
-    style F fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
-    style G fill:#f093fb,stroke:#f5576c,stroke-width:3px,color:#fff
-    style H fill:#4facfe,stroke:#00f2fe,stroke-width:3px,color:#fff
-    style I fill:#38ef7d,stroke:#11998e,stroke-width:3px,color:#fff
-```
-
-### 🛠️ Development Setup
-
-```bash
-# 1. Fork and clone the repository
-git clone https://github.com/YOUR_USERNAME/Tsunami_Advance_mlPrediction.git
-cd Tsunami_Advance_mlPrediction
-
-# 2. Create a new branch
-git checkout -b feature/your-feature-name
-
-# 3. Make your changes
-# ... edit files ...
-
-# 4. Test your changes
-streamlit run main.py
-
-# 5. Commit and push
-git add .
-git commit -m "Add: Your feature description"
-git push origin feature/your-feature-name
-
-# 6. Create a Pull Request on GitHub
-```
-
-### 📜 Code Standards
-
-- ✅ Follow PEP 8 style guide
-- ✅ Add docstrings to functions
-- ✅ Write meaningful commit messages
-- ✅ Update documentation
-- ✅ Add tests for new features
-
-### 🎯 Priority Areas
-
-We're particularly looking for help with:
-
-1. 🧪 **Testing**: Unit tests and integration tests
-2. 📊 **Data**: Additional datasets and features
-3. 🌐 **Internationalization**: Multi-language support
-4. 🎨 **UI/UX**: Design improvements
-5. 📝 **Documentation**: Tutorials and guides
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 Tsunami Alert AI Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-```
-
-### ⚖️ Important Notes
-
-- ⚠️ **Educational Purpose**: This system is for educational and research purposes only
-- 🚫 **Not for Emergency Use**: Do not rely solely on this system for emergency decisions
-- 📢 **Follow Official Warnings**: Always follow official tsunami warnings and evacuation orders
-- 🏛️ **Disclaimer**: The authors are not liable for any damages from using this software
-
----
 
 ## 👥 Authors
 
@@ -1312,16 +1193,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 </td>
 </tr>
 </table>
-
-</div>
-
-### 🤝 Connect With Us
-
-<div align="center">
-
-[![GitHub Issues](https://img.shields.io/badge/Issues-Report%20Bug-red?style=for-the-badge&logo=github)](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction/issues)
-[![GitHub Discussions](https://img.shields.io/badge/Discussions-Join%20Community-blue?style=for-the-badge&logo=github)](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction/discussions)
-[![GitHub Stars](https://img.shields.io/github/stars/RaGaS958/Tsunami_Advance_mlPrediction?style=for-the-badge)](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction/stargazers)
 
 </div>
 
@@ -1364,30 +1235,7 @@ Special thanks to the open-source community:
 
 ---
 
-## 📞 Support & Contact
 
-### 🆘 Need Help?
-
-<div align="center">
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| 📖 **Documentation** | Complete user guide | [Read Docs](#-documentation) |
-| ❓ **FAQ** | Frequently asked questions | [View FAQ](#) |
-| 💬 **Discussions** | Community Q&A | [Join Discussion](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction/discussions) |
-| 🐛 **Bug Reports** | Report issues | [Report Bug](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction/issues) |
-| ✨ **Feature Requests** | Suggest improvements | [Request Feature](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction/issues/new) |
-
-</div>
-
-### 📧 Contact Information
-
-For urgent matters or general inquiries:
-
-- 📫 **GitHub Issues**: [Open an Issue](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction/issues)
-- 💬 **Discussions**: [Start a Discussion](https://github.com/RaGaS958/Tsunami_Advance_mlPrediction/discussions)
-
----
 
 ## 📊 Project Statistics
 
