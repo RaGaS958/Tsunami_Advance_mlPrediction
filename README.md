@@ -939,7 +939,7 @@ pie title Model Prediction Distribution (782 Events)
 
 ### 🏠 Home Dashboard
 
-<img src="https://raw.githubusercontent.com/RaGaS958/Tsunami_Advance_mlPrediction/main/screenshots/home.png" alt="Home Page" width="800"/>
+<img src="home.png" alt="Home Page" width="800"/>
 
 *Beautiful glassmorphism UI with gradient backgrounds and smooth animations*
 
@@ -947,7 +947,7 @@ pie title Model Prediction Distribution (782 Events)
 
 ### 🔍 Prediction Interface
 
-<img src="https://raw.githubusercontent.com/RaGaS958/Tsunami_Advance_mlPrediction/main/screenshots/prediction.png" alt="Prediction Page" width="800"/>
+<img src="prediction.png" alt="Prediction Page" width="800"/>
 
 *Intuitive input form with real-time validation and instant results*
 
@@ -955,7 +955,7 @@ pie title Model Prediction Distribution (782 Events)
 
 ### 📊 Analytics Dashboard
 
-<img src="https://raw.githubusercontent.com/RaGaS958/Tsunami_Advance_mlPrediction/main/screenshots/analytics.png" alt="Analytics Page" width="800"/>
+<img src="analytics.png" alt="Analytics Page" width="800"/>
 
 *Interactive charts and global visualization with Plotly*
 
